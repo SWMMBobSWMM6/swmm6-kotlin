@@ -1,0 +1,1 @@
+kt6_b: 241 models  PASS 241
